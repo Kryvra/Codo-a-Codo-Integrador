@@ -1,0 +1,77 @@
+.cards {
+    margin-top: 110px;
+    padding: 0;
+}
+
+.card {
+    text-align: center;
+    font-size: 24px;
+    padding: 30px 0 10px;
+    margin-top: 20px;
+}
+
+.card > p {
+    margin: 20px 0;
+}
+
+.card > h4 {
+    font-weight: bold;
+}
+
+.doc {
+    font-size: 19px;
+    font-weight: 500;
+    color: gray;
+}
+
+.student {
+    border: solid 3px cornflowerblue;
+}
+
+.trainee {
+    border: solid 3px cadetblue;
+}
+
+.junior {
+    border: solid 3px goldenrod;
+}
+
+.title {
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+}
+
+h1 {
+    text-align: center;
+    margin: -15px 0 20px;
+    font-size: 50px;
+}
+
+.form_container {
+    padding: 0;
+}
+
+.form-control {
+    font-size: 25px;
+    padding-left: 20px;
+}
+
+.col-md-6 > p {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.form-select {
+    color: gray;
+}
+
+.form-btn {
+    background-color: yellowgreen;
+    color: white;
+    font-size: 25px;
+    border: 0px;
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 6px;
+}

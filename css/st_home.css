@@ -1,0 +1,167 @@
+.oradores-1 {
+    text-align: center;
+    margin: 12px 0px 0px;
+    font-size: 13px;
+}
+
+.oradores-2 {
+    text-align: center;
+    font-size: 33px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.container-orador-ext {
+    padding: 0 85px;
+}
+
+.container-orador-int {
+    margin-left: 15px;
+    padding: 0;
+}
+
+.container-orador-int>img {
+    width: 100%;
+}
+
+.js {
+    background-color: #fec107;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 4px;
+    border: none;
+}
+
+.react {
+    background-color: #17a3b7;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 4px;
+    border: none;
+}
+
+.negocios {
+    background-color: #6c757e;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 4px;
+    border: none;
+}
+
+.startups {
+    background-color: #dc3648;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 4px;
+    border: none;
+}
+
+.texto-orador {
+    padding: 25px;
+}
+
+.texto-orador>span {
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.texto-orador>p {
+    font-size: 13.5px;
+    line-height: 185%;
+    margin: 12px -10px 0 0;
+}
+
+#lugar-fecha {
+    margin: 30px 0;
+}
+
+.pad-0 {
+    padding: 0;
+}
+
+.bsas {
+    background-color: #353a40;
+    color: white;
+    font-size: 15px;
+}
+
+.bsas>img {
+    width: 100%;
+}
+
+.bsas>h4 {
+    margin-top: 20px;
+}
+
+.button-1 {
+    background-color: #00000000;
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 10px 15px 8px 15px;
+    margin: 10px 0;
+}
+
+.button-2 {
+    background-color: #29a744;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px 8px 15px;
+    margin: 10px 0 0 10px;
+}
+
+.container-orador {
+    width: 50%; padding: 0;
+}
+
+.orador-registro {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.margin-top-20 {
+    margin-top: -20px;
+}
+
+.font-20 {
+    font-size: 20px;
+}
+
+.module {   
+    position: relative;
+    overflow: hidden;
+    margin-bottom: -70px
+}
+
+.module::before {
+    content: "";
+    width: 101.5%;
+    height: 101.5%;
+    margin-top: -80px;
+    margin-left: -13px;
+    position: absolute;
+    background-image: url(../imgs/ba1.jpg);
+    background-size: cover;
+    filter: brightness(50%);
+}
+
+.module-inside {
+    position: relative;
+    font-size: 20.5px;
+    padding: 20.6% 0 13% 42%;
+    margin-right: 8.5%;
+    color: white;
+    text-align: end;
+}
+
+.button-form {
+    width: 100%;
+    margin-top: 20px;
+    background-color: #96c93e;
+    color: white;
+    font-size: 20px;
+}
